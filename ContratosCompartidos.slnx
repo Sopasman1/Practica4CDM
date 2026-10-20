@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ClineteVisual/ClineteVisual.csproj" />
+  <Project Path="ContratosCompartidos/ContratosCompartidos.csproj" />
+  <Project Path="ServidorDistribuido/ServidorDistribuido.csproj" />
+</Solution>
